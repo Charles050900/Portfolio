@@ -1,8 +1,7 @@
-# Sarah's Portfolio 💎
+# Charles's Portfolio 💎
 
-Welcome to the repository for Sarah Abu Irmeileh's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
+Welcome to the repository for Charles's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
-Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netlify.app/)👈
 
 
 ## Table of Contents 📋
@@ -31,10 +30,10 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 ## Usage 👩🏻‍💻
 ### Navigation 💻
 - Home: Introduction and brief overview.
-- About: Detailed information about Sarah's background.
-- Services: A list of services Sarah offers, such as back-end development and computer graphics design.
-- Portfolio: Display of Sarah's projects with links to their respective repositories.
-- Contact: Information on how to get in touch with Sarah, including email and social media links.
+- About: Detailed information about Charles's background.
+- Services: A list of services Charles offers, such as back-end development and computer graphics design.
+- Portfolio: Display of Charles's projects with links to their respective repositories.
+- Contact: Information on how to get in touch with Charles, including email and social media links.
 
 ### Switching Color Themes 📌
 - Open the style switcher by clicking the gear icon.
@@ -46,11 +45,11 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 
 ## Contact 📨
 
-For any inquiries, you can reach Sarah Abu Irmeileh through the following channels:
+For any inquiries, you can reach Charles Abu Irmeileh through the following channels:
 
-- Email: [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
-- GitHub: [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
-- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarahabuirmeileh)
-- Medium: [SarahAbuirmeileh](https://medium.com/@SarahAbuirmeileh)
+- Email: [charlesbellarmin05@gmail.com](mailto:charlesbellarmin05@gmail.com)
+- GitHub: [Charles050900](https://github.com/Charles050900)
+- LinkedIn: [Charles Bellarmin](https://www.linkedin.com/in/charles-bellarmin-008243253)
+- Instagram: [Charles Bellarmin](https://www.instagram.com/charles._.05)
 
 Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
