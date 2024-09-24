@@ -2,7 +2,7 @@
 
 Welcome to the repository for Charles's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
-📑 live preview [Click here](#https://charles050900.github.io/Portfolio/)
+📑 live preview [Click here](https://charles050900.github.io/Portfolio/)
 
 ## Table of Contents 📋
 - [Technologies Used](#technologies-used)
