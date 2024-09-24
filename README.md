@@ -51,5 +51,8 @@ For any inquiries, you can reach Charles Abu Irmeileh through the following chan
 - GitHub: [Charles050900](https://github.com/Charles050900)
 - LinkedIn: [Charles Bellarmin](https://www.linkedin.com/in/charles-bellarmin-008243253)
 - Instagram: [Charles Bellarmin](https://www.instagram.com/charles._.05)
+  
+## Inspiration
+Design inspired by https://github.com/SarahAbuirmeileh
 
 Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
