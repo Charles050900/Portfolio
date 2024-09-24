@@ -27,7 +27,7 @@ Welcome to the repository for Charles's personal portfolio website. This portfol
   - Portfolio
   - Contact
 
-## Usage 👩🏻‍💻
+## Usage 👨🏻‍💻
 ### Navigation 💻
 - Home: Introduction and brief overview.
 - About: Detailed information about Charles's background.
